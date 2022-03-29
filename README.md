@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing, Electric, Robotics and Gaming
 - 🌱 I’m currently learning C++, JS, Java, HTML/CSS, Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
+- 📫 How to reach me:
 - Discord: szeligus#4269 or szeligus#5555
 
 <!---
